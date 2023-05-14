@@ -399,7 +399,7 @@ ___
 ```
 Первый вариант вставки ссылок - это просто написать адрес сайта http://sabaka.net
 ```
-Первый вариант вставки ссылок - это просто написать адрес сайта http://sabaka.net
+Первый вариант вставки ссылок - это просто написать адрес сайта https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/managing-your-theme-settings
 
 Второй вариант записывается так: `[текст ссылки](адрес ссылки)`
 ```
